@@ -31,5 +31,5 @@ Le projet vise à reproduire les mécaniques principales du jeu original :
 ## 🖼️ Aperçu du jeu
 
 <p align="center">
-  <img src="assets/interface.png" alt="Interface du jeu Pacman" width="600">
+  <img src="assets/Capture d’écran 2025-12-26 à 18.41.25.png" alt="Interface du jeu Pacman" width="600">
 </p>

@@ -27,3 +27,9 @@ Le projet vise à reproduire les mécaniques principales du jeu original :
 - Implémenter une boucle de jeu fonctionnelle
 - Développer la logique algorithmique
 - Comprendre l’organisation d’un projet structuré en C
+
+## 🖼️ Aperçu du jeu
+
+<p align="center">
+  <img src="assets/interface.png" alt="Interface du jeu Pacman" width="600">
+</p>

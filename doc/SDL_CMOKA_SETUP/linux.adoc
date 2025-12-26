@@ -1,0 +1,23 @@
+== Installer les dépendances SDL3 sur Linux
+
+Pour installer les dépendances SDL3 nécessaires au projet Pacman sur une distribution Linux basée sur Debian (comme Ubuntu), vous pouvez utiliser la commande suivante dans votre terminal :
+```bash
+sudo apt-get install libsdl3-dev libsdl3-image-dev libsdl3-mixer-dev
+```
+
+Pour les distributions basées sur Red Hat (comme Fedora), utilisez la commande suivante :
+```bash
+sudo dnf install SDL3-devel SDL3_image-devel SDL3_mixer-devel
+```
+
+== CMocka
+
+Debian / Ubuntu
+```bash
+sudo apt-get install libcmocka-dev
+```
+
+Red Hat / Fedora
+```bash
+sudo dnf install cmocka-devel
+```

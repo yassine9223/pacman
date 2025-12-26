@@ -1,0 +1,6 @@
+# Installer SDL3 et CMocka sur Windows
+
+Pour configurer la SDL3 pour le projet Pacman ainsi que CMocka sur Windows, suivez les étapes ci-dessous :
+```powershell
+git submodule update --init --recursive
+```
